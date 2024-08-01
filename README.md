@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Geeshan Thisera
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Geeshan Thisera
 
 I'm an Information Technology Undergraduate at Sri Lanka Institute of Information Technology (SLIIT). I'm a dedicated and passionate individual with a keen interest in web and mobile development. I thrive on creating immersive and user-friendly digital experiences that push the boundaries of innovation. My journey in the world of technology has been shaped by my enthusiasm for building impactful applications that make a difference.
 
