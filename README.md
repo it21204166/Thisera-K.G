@@ -49,3 +49,13 @@ I'm an Information Technology Undergraduate at Sri Lanka Institute of Informatio
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=it21204166&show_icons=true&theme=radical" alt="Geeshan's GitHub stats">
 </div>
+
+<div align="center" style="background-color: #f3e5f5; padding: 20px;">
+  <h2>📫 Connect with me</h2>
+  <a href="https://linkedin.com/in/Geeshan Tissera">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:geeshanthisera1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
