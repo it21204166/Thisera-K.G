@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 <div align="center" style="background-color: #f3e5f5; padding: 20px;">
-  <img src="https://media.giphy.com/media/QsryU5Atd4EnO07zgB/giphy.gif" width="200px">
+  <img src="[https://media.giphy.com/media/QsryU5Atd4EnO07zgB/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVjd3lid2Q3dTR0eXRpZmt2aGltZ2NoNm9yeTlwYmVvdDNtMTh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyxdzuAaxZnPH7TyRd/giphy.gif)" width="200px">
   <p>🎓 I'm an Information Technology Undergraduate at Sri Lanka Institute of Information Technology (SLIIT).</p>
   <p>💻 Passionate about web and mobile development, creating immersive and user-friendly digital experiences.</p>
   <p>🚀 Enthusiastic about building impactful applications.</p>
