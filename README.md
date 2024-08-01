@@ -14,7 +14,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Geeshan's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thisera-K.G&show_icons=true&theme=radical" alt="Geeshan's GitHub stats">
 </div>
 
 <!-- Skills -->
