@@ -59,3 +59,11 @@ I'm an Information Technology Undergraduate at Sri Lanka Institute of Informatio
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
+
+
+<!-- Animated footer -->
+<div align="center" style="background-color: #f3e5f5; padding: 20px;">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100px">
+  <p>Thanks for stopping by! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></p>
+</div>
