@@ -44,4 +44,8 @@ I'm an Information Technology Undergraduate at Sri Lanka Institute of Informatio
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## GitHub Stats
+
+<div align="center" style="background-color: #f3e5f5; padding: 20px;">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=it21204166&show_icons=true&theme=radical" alt="Geeshan's GitHub stats">
+</div>
