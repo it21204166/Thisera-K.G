@@ -52,7 +52,7 @@ I'm an Information Technology Undergraduate at Sri Lanka Institute of Informatio
 
 <div align="center" style="background-color: #f3e5f5; padding: 20px;">
   <h2>📫 Connect with me</h2>
-  <a href="https://linkedin.com/in/Geeshan Tissera">
+  <a href="https://www.linkedin.com/in/geeshan-thisera?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGjfyGzbWQV2qGB1Cj9MDGg%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:geeshanthisera1234@gmail.com">
